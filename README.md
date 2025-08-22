@@ -160,7 +160,8 @@ The chain (`prompt | llm | output_parser`) forms a `RunnableSequence` that proce
    ```
 4. Open your browser to `http://localhost:8501` (or the provided URL).
 5. Enter a query, and the chatbot will respond using the local Ollama model.
-
+- _Landing Page_
+  ![Screenshot](Landing_UI.png)
 ---
 
 ## 📊 Monitoring and Tracing with LangSmith
